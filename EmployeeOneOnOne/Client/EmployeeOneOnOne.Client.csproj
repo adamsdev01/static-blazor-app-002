@@ -13,4 +13,5 @@
   <ItemGroup>
     <ProjectReference Include="..\Shared\EmployeeOneOnOne.Shared.csproj" />
   </ItemGroup>
+  <ProjectExtensions><VisualStudio><UserProperties UseCdnSupport="True" /></VisualStudio></ProjectExtensions>
 </Project>
